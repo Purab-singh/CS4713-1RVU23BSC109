@@ -9,3 +9,5 @@ Lab 1: Mesh Editing
 Based Object Design
 Task: Design a simple object using extrude, inset, bevel and
 loop cut.
+
+Task-3: Implement mesh editing operations such as extrude, inset, bevel, and loop cut.   
